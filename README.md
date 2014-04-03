@@ -1,4 +1,4 @@
-[![build status](https://secure.travis-ci.org/fabien-d/alertify.js.png)]
+[build status]
 
 Dac_Proj is a spring Hibernate Application
 
